@@ -1,5 +1,6 @@
         # reactQuestions
 1.What is React? What are its features
+
      React was created by Jordane Walke , a software engineer at facebook in the year 2011 and it was deployed first at the facebook newsfeed and later it was used in facebook and instagram. 
      React is a open source front end js library . It follows the component based approach for building reusable  UI components speacially for single page application
      and it is used for developing interactive view layer of web and mobile application.
